@@ -1,0 +1,14 @@
+## 飞鸽折叠抱闸自行车安装视频
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?bvid=BV1WcvHeLE7P&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" > </iframe>
+</div>
+
+## 刹车线调节
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?bvid=BV1wnrqYJEWy&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" > </iframe>
+</div>
+
+## 脚踏安装
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Q3vseNEEm&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" > </iframe>
+</div>

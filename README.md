@@ -1,10 +1,7 @@
-## 儿童碟刹山地车安装教程
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?bvid=BV14s4y127Me&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" > </iframe>
-</div>
+> 这里是介绍安装儿童自行车以及童车故障处理的帮助文档。
 
-## 教你调节碟刹器
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?bvid=BV1h1AneCEhd&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" > </iframe>
-</div>
-测试区域
+本文档主要介绍两大要点：
+ - 儿童碟刹自行车安装教程
+ - 儿童抱闸自行车安装教程
+
+在右上方的导航栏可以查看各个类型的童车安装视频
