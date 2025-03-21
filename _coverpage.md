@@ -1,14 +1,12 @@
 <!-- _coverpage.md -->
 
-![logo](img/36k-logo.png)
+# 儿童自行车安装指南 
 
-# docsify <small>3.5</small>
+> 💪儿童自行车安装指南，使用视频讲解的方式，打造最强、最轻量级的童车安装指南。
 
-> A magical documentation site generator.
+ 简单、轻便、专业
+- 无需复杂的废话
+- 直面难题讲解
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
 
-[GitHub](https://github.com/nilincc/36k/)
-[查看详情](#README)
+[开始使用 Let Go](/README.md)
